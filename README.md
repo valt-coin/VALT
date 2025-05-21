@@ -1,5 +1,18 @@
 # $VALT Ecosystem – Smart Contracts
 
+<p align="left">
+  <a href="https://drive.google.com/file/d/16XY_6Tnmo8Uqi3onFs82JqP88PdnyL7x/view">
+    <img src="https://img.shields.io/badge/audit-passed-brightgreen" alt="Audit Passed" />
+  </a>
+  <img src="https://img.shields.io/badge/status-active-brightgreen" alt="Project Status" />
+  <a href="https://drive.google.com/drive/folders/1O1sPC0ep-yjQL2cEchi_WJyP3L3KEitk?usp=drive_link">
+    <img src="https://img.shields.io/badge/Data%20Room-access-blueviolet" alt="Data Room" />
+  </a>
+  <a href="https://t.me/valt_community">
+    <img src="https://img.shields.io/badge/Telegram-join%20community%20group-179cde?logo=telegram&logoColor=white" alt="Join our Telegram Community" />
+  </a>
+</p>
+
 **Smart contracts for $VALT — a multichain utility token for the global event industry.**  
 Audited, secured, and built for tokenized event access.
 
